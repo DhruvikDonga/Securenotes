@@ -10,4 +10,4 @@ Securenotes is an encryption based text editor which uses DES system to encrypt 
 * DES.py contains functions related to decoding and encoding
 * securenote.py is the core file containing tkinter GUI code
 
-##  *Check out the release file of ***project(https://github.com/DhruvikDonga/Securenotes/releases/tag/1.0 "Release file v1.0")****
+####  *Check out the release file of ***[project](https://github.com/DhruvikDonga/Securenotes/releases/tag/1.0 "Release file v1.0")****
